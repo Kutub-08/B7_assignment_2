@@ -1,0 +1,50 @@
+Method -> GET Time -> 1779444380025 URL -> /
+Method -> GET- Time -> 1779444519022 - URL -> /
+
+Method -> GET- Time -> 1779444521232 - URL -> /
+
+Method -> GET- Time -> 1779444545877 - URL -> /
+
+Method -> GET- Time -> 1779444555066 - URL -> /api/users
+
+Method -> GET- Time -> 1779467686181 - URL -> /api/users/15
+
+Method -> GET- Time -> 1779467913371 - URL -> /api/users/15
+
+Method -> GET- Time -> 1779467930183 - URL -> /api/users
+
+Method -> GET- Time -> 1779467966747 - URL -> /api/users
+
+Method -> GET- Time -> 1779467970091 - URL -> /api/users
+
+Method -> GET- Time -> 1779468303470 - URL -> /api/users
+
+Method -> POST- Time -> 1779468382742 - URL -> /api/auth/login
+
+Method -> POST- Time -> 1779468532847 - URL -> /api/auth/login
+
+Method -> POST- Time -> 1779468542650 - URL -> /api/auth/login
+
+Method -> POST- Time -> 1779468623781 - URL -> /api/auth/login
+
+Method -> POST- Time -> 1779468701657 - URL -> /api/auth/login
+
+Method -> POST- Time -> 1779468786275 - URL -> /api/auth/login
+
+Method -> POST- Time -> 1779517941509 - URL -> /api/auth/refresh-token
+
+Method -> POST- Time -> 1779521206547 - URL -> /api/auth/refresh-token
+
+Method -> POST- Time -> 1779521283897 - URL -> /api/auth/refresh-token
+
+Method -> GET- Time -> 1779522055891 - URL -> /api/users/
+
+Method -> POST- Time -> 1779523049103 - URL -> /api/users
+
+Method -> POST- Time -> 1779523062679 - URL -> /api/users
+
+Method -> GET- Time -> 1779534274055 - URL -> /
+
+Method -> POST- Time -> 1779535402056 - URL -> /api/auth/signup
+
+Method -> POST- Time -> 1779535409332 - URL -> /api/auth/signup

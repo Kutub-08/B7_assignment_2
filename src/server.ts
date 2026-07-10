@@ -5,8 +5,8 @@ import { initDB } from "./db";
 const main = () => {
   initDB();
   app.listen(config.PORT, () => {
-  console.log(`Example app listening at http://localhost:${config.PORT}`);
-});
-}
+    console.log(`Example app listening at http://localhost:${config.PORT}`);
+  });
+};
 
 main();
